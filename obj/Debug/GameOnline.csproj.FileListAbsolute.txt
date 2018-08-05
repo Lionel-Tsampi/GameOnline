@@ -1,0 +1,12 @@
+C:\DEV\C#\JeuEnLigne\GameOnline\bin\Debug\GameOnline.exe.config
+C:\DEV\C#\JeuEnLigne\GameOnline\bin\Debug\GameOnline.exe
+C:\DEV\C#\JeuEnLigne\GameOnline\bin\Debug\GameOnline.pdb
+C:\DEV\C#\JeuEnLigne\GameOnline\bin\Debug\EntityFramework.dll
+C:\DEV\C#\JeuEnLigne\GameOnline\bin\Debug\EntityFramework.SqlServer.dll
+C:\DEV\C#\JeuEnLigne\GameOnline\bin\Debug\EntityFramework.xml
+C:\DEV\C#\JeuEnLigne\GameOnline\bin\Debug\EntityFramework.SqlServer.xml
+C:\DEV\C#\JeuEnLigne\GameOnline\bin\Debug\fr\EntityFramework.resources.dll
+C:\DEV\C#\JeuEnLigne\GameOnline\obj\Debug\GameOnline.exe
+C:\DEV\C#\JeuEnLigne\GameOnline\obj\Debug\GameOnline.pdb
+C:\DEV\C#\JeuEnLigne\GameOnline\obj\Debug\GameOnline.Migrations.InitialCreate.resources
+C:\DEV\C#\JeuEnLigne\GameOnline\obj\Debug\GameOnline.csproj.GenerateResource.Cache
