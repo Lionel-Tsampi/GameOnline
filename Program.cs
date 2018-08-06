@@ -70,7 +70,7 @@ namespace GameOnline
                 }
 
             }
-            else if (args[i] == "-addNote")
+            else if (args[i] == "-updateNote")
             {
                 try
                 {
