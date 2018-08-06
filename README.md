@@ -21,3 +21,12 @@ Conception
  - Approche codeFirst
  - EntityFrameWork 6.1.1
  - BD : SQL Server Express 2012
+
+
+Utilisation
+ - importer les souces depuis votre IDE (Visual Studio 2015 de preference)
+ - regener la base de donnée depuis la ligne de commande Enable-Migrations
+ - decommenter les objets crées dans le main et remplisser la base de données
+ - regenerer le projet 
+ - ouvrer la console et tester les commnandes
+ - la commande -help vous donne une description de toutes les commandes utiles
